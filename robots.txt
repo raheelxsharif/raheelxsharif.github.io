@@ -1,3 +1,5 @@
+# Every crawler is welcome, including AI search and training crawlers: this documentation
+# exists to be found and cited.
 User-agent: *
 Allow: /
 
