@@ -5,3 +5,4 @@ Allow: /
 
 Sitemap: https://raheelxsharif.github.io/apify-actor-examples/sitemap.xml
 Sitemap: https://raheelxsharif.github.io/apify-actor-examples/sitemap.txt
+Sitemap: https://raheelxsharif.github.io/sitemap.xml
